@@ -19,7 +19,7 @@ This project is an automated test suite for the Swag Labs Android app, built wit
 - Android Studio (emulator)
 - IntelliJ IDEA
 
-## 🚀 How to Run the Tests
+## 🧪 How to Run the Tests
 1. Install dependencies (Java 17+, Appium server)
 2. Connect your Android emulator
 3. Update `app` path in `BaseTest.java` if needed
