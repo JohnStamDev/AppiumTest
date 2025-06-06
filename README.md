@@ -23,8 +23,8 @@ This project is an automated test suite for the Swag Labs Android app, built wit
 1. Install dependencies (Java 17+, Appium server)
 2. Connect your Android emulator
 3. Update `app` path in `BaseTest.java` if needed
-4. From terminal: mvn clean test
-5. After tests, open the report: target/cucumber-html-reports/index.html
+4. From terminal: `mvn clean test`
+5. After tests, open the report: `target/cucumber-html-reports/index.html`
 
 ## 📌 Notes
 - App used: Swag Labs APK
